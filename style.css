@@ -44,7 +44,7 @@ body{
     border: none;
 }
 
-#new-btn{
+/* #new-btn{
     padding: 1rem;
     font-size: 1.25rem;
     background-color: black;
@@ -52,7 +52,7 @@ body{
     border-radius: 1rem;
     border: none;
 
-}
+} */
 
 #msg{
     color: rgb(235, 111, 10);
