@@ -79,5 +79,5 @@ const checkWinner= () =>{
 }
 
 
-// newGamebtn.addEventListener("click",resetGame);
-// resetbtn.addEventListener("click",resetGame);
+newGamebtn.addEventListener("click",resetGame);
+resetbtn.addEventListener("click",resetGame);
